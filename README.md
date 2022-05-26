@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 🛠️ Skills:
 Stack
 Material UI  CSS  HTML  JavaScript  Firebase  MongoDb  React  React Native  NodeJS  Git
-🖥️ Workspace Setup
 
 🔗 Links
 https://sekinc.netlify.app/projects
