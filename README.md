@@ -10,7 +10,7 @@
 
 🛠️ Skills:
 Stack
-Material UI  CSS  HTML  JavaScript  Firebase  MongoDb  React  React Native  NodeJS  Git
+Material UI  #CSS  #HTML  #JavaScript  #Firebase  #MongoDb  #React #Nextjs  #React-Native  #NodeJS  #Git
 
 🔗 Links
 https://sekinc.netlify.app/projects
