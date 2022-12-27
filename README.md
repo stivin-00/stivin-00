@@ -13,7 +13,7 @@
 
 📚 I also love politics and sports. My favorite ones are football and basketball.
 
-- 👨‍💻 Some of my projects are available at [https://sekinc.netlify.app/projects](https://sekinc.netlify.app/projects)
+- 👨‍💻 Some of my projects are available at [https://stivin.netlify.app/](https://stivin.netlify.app/)
 
 - 💬 Ask me about **react, react-native, node**
 
