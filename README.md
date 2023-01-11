@@ -32,4 +32,4 @@
 
 
 🔗 Links
-https://sekinc.netlify.app/projects
+https://stivin.vercel.app
