@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Ekele Stephen</h1>
+<h1 align="center">Hi!, I'm Ekele Stephen</h1>
 <h3 align="center">A passionate MERN-STACK developer from Lagos Africa</h3>
 
 
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 
 👨‍💻 I enjoy contributing to Open Source Projects. I love working on anything Javascript.
