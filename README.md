@@ -12,9 +12,9 @@
 
 📚 I also love politics and sports. My favorite ones are football and basketball.
 
-- 👨‍💻 Some of my projects are available at [https://stivin.netlify.app/](https://stivin.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://stivin.vercel.app/](https://stivin.vercel.app/)
 
-- 💬 Ask me about **react, react-native, node**
+- 💬 Ask me about **typescript, react, Vue, react-native, node**
 
 - 📫 How to reach me **ekeleagbakwuru9@gmail.com**
 
